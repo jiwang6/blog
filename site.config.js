@@ -15,10 +15,6 @@ const CONFIG = {
       name: `Blog Source`,
       href: "https://github.com/jiwang6/blog",
     },
-    {
-      name: `Group Convolutional Toric Code Decoder`,
-      href: "https://github.com/jiwang6/gconv-decoder",
-    },
   ],
   // blog setting (required)
   blog: {
