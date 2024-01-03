@@ -11,16 +11,20 @@ const CONFIG = {
     instagram: "jzwng",
   },
   projects: [
+    {
+      name: `Blog Source`,
+      href: "https://github.com/jiwang6/blog",
+    },
   ],
   // blog setting (required)
   blog: {
     title: "Deconstructionist Datasexual",
-    description: "Unplug from yer mom.",
+    description: "Musings from your average Herman-Miller-philosopher.",
   },
 
   // CONFIG configration (required)
   link: "https://jiwang6.vercel.app",
-  since: 2024, // If leave this empty, current year will be used.
+  since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
