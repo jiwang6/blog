@@ -20,6 +20,7 @@ const CONFIG = {
   blog: {
     title: "Deconstructionist Datasexual",
     description: "Musings from your average Herman-Miller-philosopher.",
+    theme: "auto",
   },
 
   // CONFIG configration (required)
