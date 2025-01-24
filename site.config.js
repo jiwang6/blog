@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "Unexorcised Spirit in Search of Political, Academic, and Professional Praxis",
     email: "jim.z.wang8@gmail.com",
     github: "jiwang6",
-    instagram: "jzwng",
+    instagram: "jiji.ipynb",
     linkedin: "jimzwang8",
   },
   projects: [
